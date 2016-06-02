@@ -1,4 +1,4 @@
-FROM ruby:2.3.1-alpine
+FROM ruby:2.3.1
 
 ENV DPL_VERSION 1.8.16
 
