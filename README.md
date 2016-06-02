@@ -1,8 +1,7 @@
 This container solely exists to run the fantastic CD deploy tool,
 [DPL](https://github.com/travis-ci/dpl).
 
-I've set the entrypoint so just specify the cli options you'd like to pass!
-Additionally, this is based on alpine via the official
+This is based on the official
 [ruby](https://hub.docker.com/_/ruby/) image!
 
 In *example*, for AWS CodeDeply:
